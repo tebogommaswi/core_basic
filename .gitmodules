@@ -1,3 +1,4 @@
 [submodule "core_common"]
 	path = core_common
 	url = git@github.com:tebogommaswi/core_common.git
+	branch = master
